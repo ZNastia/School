@@ -1,0 +1,159 @@
+.header {
+	width: 942px;
+	height: 185px;
+	position: absolute;
+	margin-left: 194px;
+	background-image: url(file:///D:/school/img/bg-header-bord.png);
+	background-repeat: no-repeat;
+	text-align: center;
+	color: white;
+	font-size: 19px;
+}
+
+.header-for-words {
+	margin-top: 48px;
+	font-style: italic;
+}
+
+.navigation {
+	width: 942px;
+	height: 27px;
+	position: absolute;
+	margin: 184px 194px;
+	margin-left: 194px;
+	background-image: url(file:///D:/school/img/school-for-top.jpg);
+}
+
+.navigation1 {
+	width: 500px;
+	height: 27px;
+	margin-left: 210px;
+	margin-top: 4px;
+	font-style: italic;
+}
+	
+.navigation li {
+	display: inline;
+	margin: 10px;
+	margin-right: 0px;
+	padding: 0px;
+	font-size: 16px;
+}
+	
+a {
+	text-decoration: none;
+}
+	
+.navigation a {
+	padding: 2px;
+	border-radius: 4px;
+}
+	
+.navigation a:visited {
+	color: #fff;
+	padding: 2px;
+	border-radius: 4px;
+}
+	
+.navigation a:hover {
+	color: #C1876B;
+	background: #FFFFE0;
+}
+	
+.lefter {
+	width: 215px;
+	height: 1027px;
+	margin: 211px 194px;
+	position: absolute;
+	background: beige;
+}
+	
+.lefter h1 {
+	font-size: 20px;
+	text-indent: 37px;
+}
+	
+.lefter li {
+	list-style-type: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin: 10px 50px;
+	font-size: 14px;
+}
+	
+.lefter a:hover {
+	color:#C1876B;
+}
+	
+.center {
+	width: 483px;
+	height:1027px;
+	margin:211px 410px;
+	position:absolute;
+}
+	
+.center-for-new-site {
+	font-size: 18px;
+	text-align: center;
+	margin: 30px 100px;
+	display: block;
+	font-weight: bold;
+
+}
+	
+.center h1 {
+	font-size: 20px;
+	text-align: center;
+	color: #5882FA;
+}
+	
+.righter {
+	width: 244px;
+	height: 1027px;
+	margin: 211px 892px;
+	position: absolute;
+	background: beige;
+}
+
+.righter-for-continuation {
+	margin-left: 140px;
+	font-size: 12,5px;
+}	
+
+.righter-for-img {
+	margin: 00px 30px;
+}
+.righter h1 {
+	font-size: 20px;
+	text-indent: 13px;
+	color: #5882FA;
+}
+	
+.righter p {
+	margin: 20px 10px;
+	font-size: 14px;
+}
+	
+.footer {
+	width: 942px;
+	height: 27px;
+	margin: 1238px 193px;
+	position: absolute;
+	background-image: url(file:///D:/school/img/school-for-top.jpg); 
+}
+
+.center img {
+	width: 190px;
+	height: 190px;
+	margin: 10px 50px;
+}
+
+.center-for-photo {
+	width: 240px;
+	height: 27px;
+	border-bottom: 2px solid gray;
+	text-indent: 10px;
+	font-size: 20px;
+	color: #5882FA;
+	font-weight: bold;	
+}
